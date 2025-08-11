@@ -1,0 +1,34 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Data and outputs
+data/
+outputs/
+*.csv
+*.h5
+*.npy
+
+# Logs
+*.log
+
+# Versions folder (we keep copies here; don't accidentally push huge binaries)
+versions/
